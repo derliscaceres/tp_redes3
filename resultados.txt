@@ -7,3 +7,17 @@ DES2
 P=A4760DB3265FA415
 k2=000000009b9b5d
 C=160BD461B7BE9BD3
+
+
+-------
+LOG - Notebook i56200U
+PS C:\Users\CARRY\Documents\VSCode\tp_redes3> & C:/Users/CARRY/AppData/Local/Programs/Python/Python312/python.exe c:/Users/CARRY/Documents/VSCode/tp_redes3/tp_final_redes.py
+Generando la tabla para k1...
+Tabla generada en  241.29152369499207 segundos.
+Generando la tabla para k2...
+Tabla generada en  232.53424715995789 segundos.
+Buscando k1 y k2...
+Coincidencia encontrada en 1115222 iteraciones.
+Tiempo de ejecución: 474.29231119155884 segundos.
+Claves: K1 = 00000000008911ab, K2 = 00000000009b9b5d
+-------
